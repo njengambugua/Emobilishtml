@@ -1,0 +1,65 @@
+.fruits{
+    border: 2px solid orange;
+    border-radius: 15px;
+    /*background-color: cornsilk;*/
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #4d0f3a;
+}
+
+.cars{
+    /*background-color: red;*/
+    border: 2px solid green;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+}
+
+.laptops{
+   /*background-color: #06082a;*/
+    border: 2px solid #d52ab2;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pc{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.desktop{
+    border: 3px dotted beige;
+    border-radius: 15px;
+}
+
+.FRUITS{
+    /*background-color: black;*/
+    border: 3px solid blue;
+    border-radius: 15px;
+    text-align: start;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+#house{
+    /*background-color: red;*/
+    border: 2px solid green;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: white;
+}
+
+body{
+    background-image: url("assets/images/bmaw.jpeg");
+}
