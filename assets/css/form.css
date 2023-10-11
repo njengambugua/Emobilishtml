@@ -59,7 +59,6 @@ input{
     height: 100%;
     padding: 5px 10px;
     background: none;
-    background-image: none;
     border: 1px solid gold;
     color: #c70edc;
     transition: border-color .25s ease, box-shadow;
@@ -68,10 +67,7 @@ input{
     position: relative;
     margin: 40px;
 }
-.top_row{
-
-}
-< div{
+.top_row > div{
     float: left;
     width: 50%;
 }
